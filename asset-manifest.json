@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Age_calculator-ReactJS/static/css/main.073c9b0a.css",
-    "main.js": "/Age_calculator-ReactJS/static/js/main.787b008e.js",
-    "static/js/787.347f5e04.chunk.js": "/Age_calculator-ReactJS/static/js/787.347f5e04.chunk.js",
-    "index.html": "/Age_calculator-ReactJS/index.html",
-    "main.073c9b0a.css.map": "/Age_calculator-ReactJS/static/css/main.073c9b0a.css.map",
-    "main.787b008e.js.map": "/Age_calculator-ReactJS/static/js/main.787b008e.js.map",
-    "787.347f5e04.chunk.js.map": "/Age_calculator-ReactJS/static/js/787.347f5e04.chunk.js.map"
+    "main.css": "/word_counter-ReactJS/static/css/main.073c9b0a.css",
+    "main.js": "/word_counter-ReactJS/static/js/main.610e1923.js",
+    "static/js/787.347f5e04.chunk.js": "/word_counter-ReactJS/static/js/787.347f5e04.chunk.js",
+    "index.html": "/word_counter-ReactJS/index.html",
+    "main.073c9b0a.css.map": "/word_counter-ReactJS/static/css/main.073c9b0a.css.map",
+    "main.610e1923.js.map": "/word_counter-ReactJS/static/js/main.610e1923.js.map",
+    "787.347f5e04.chunk.js.map": "/word_counter-ReactJS/static/js/787.347f5e04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.787b008e.js"
+    "static/js/main.610e1923.js"
   ]
 }
